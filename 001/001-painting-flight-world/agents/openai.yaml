@@ -1,0 +1,4 @@
+interface:
+  display_name: "001 · 绘画飞行世界"
+  short_description: "把绘画转成可飞行三维世界，组织立体笔触、镜头与动态 MP4 交付"
+  default_prompt: "使用 $001-painting-flight-world，把指定绘画改编为可探索的原创三维世界，先评阅关键镜头，再交付交互作品与动态 MP4。"
